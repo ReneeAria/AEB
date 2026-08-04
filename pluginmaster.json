@@ -9,8 +9,8 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "Punchline": "FC event announcer.",
-    "DownloadLinkInstall": "https://github.com/YOUR_USERNAME/AEB/raw/main/plugins/ApexEventBroadcaster/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/YOUR_USERNAME/AEB/raw/main/plugins/ApexEventBroadcaster/latest.zip",
-    "DownloadLinkTesting": "https://github.com/YOUR_USERNAME/AEB/raw/main/plugins/ApexEventBroadcaster/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Nea_Tomsen/AEB/raw/main/plugins/ApexEventBroadcaster/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Nea_Tomsen/AEB/raw/main/plugins/ApexEventBroadcaster/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nea_Tomsen/AEB/raw/main/plugins/ApexEventBroadcaster/latest.zip"
   }
 ]
