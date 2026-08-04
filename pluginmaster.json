@@ -1,0 +1,16 @@
+[
+  {
+    "Author": "Nea Tomsen",
+    "Name": "Apex Event Broadcaster",
+    "Description": "Periodically send messages to FC chat with individual timers, multi-line support, and expiration dates.",
+    "InternalName": "ApexEventBroadcaster",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Nea_Tomsen/AEB",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "Punchline": "FC event announcer.",
+    "DownloadLinkInstall": "https://github.com/YOUR_USERNAME/AEB/raw/main/plugins/ApexEventBroadcaster/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/YOUR_USERNAME/AEB/raw/main/plugins/ApexEventBroadcaster/latest.zip",
+    "DownloadLinkTesting": "https://github.com/YOUR_USERNAME/AEB/raw/main/plugins/ApexEventBroadcaster/latest.zip"
+  }
+]
